@@ -31,6 +31,7 @@ List any questions the trainer should ask during the activity.
 
 List or link to examples of completing the activity.
 
+
 ## Tips and Tricks
 - if the activity can be done both physically and online, provide info on the differences and specifics for each
 
@@ -40,3 +41,4 @@ List or link to examples of completing the activity.
 ## Comments
 - how did it go
 - supporting the co-creation process
+- 
