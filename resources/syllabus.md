@@ -30,7 +30,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 
 # Title of training 
 
-# Type (Course/Workshop/Webinar)
+(Course/Workshop/Webinar)
 
 ## Date/Time: when it will be offered
 
