@@ -1,0 +1,31 @@
+{
+  "creators": [
+    {
+      "affiliation": "CNR-ILC",
+      "name": "Provost, Lottie",
+      "orcid": "0000-0001-5279-797X"
+    }
+  ],
+  "description": "This repository contains lessons on Open Science and Research Data",
+  "keywords": [
+    "Open Science",
+    "Research Data",
+    "FAIR",
+    "training"
+  ],
+  "license": "CC-BY-4.0",
+  "publication_date": "1970-01-01",
+  "title": "Open Science and Research Data",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}
