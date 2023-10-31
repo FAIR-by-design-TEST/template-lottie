@@ -1,5 +1,5 @@
 ---
-title: Open Science and Research Data Management
+title: Syllabus
 author:
   - Lottie Provost
 tags:
@@ -7,7 +7,7 @@ tags:
   - Tags
   - Resource
   - Description
-abstract: This resource contains lessons on Open Science and RDM
+abstract: This resource contains a lesson on Open Science and RDM
 primaryLanguage: EN
 license: https://creativecommons.org/licenses/by/4.0/
 versionDate: 2023-10-20 Version date for the most recently published or broadcast resource.
@@ -23,8 +23,7 @@ learningOutcome:
 accessCost: free
 expertiseLevel: Beginner
 ---
-![Header with sky and stars](attachments/Pasted%20image%2020231020084041.png)
-
+![](attachments/Capture%20d’écran%202023-10-27%20à%2016.00.15.png)
 # Title of training 
 
 (Course/Workshop/Webinar)
