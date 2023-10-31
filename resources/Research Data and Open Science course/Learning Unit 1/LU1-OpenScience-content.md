@@ -29,15 +29,43 @@ None
 ## Learning tools
 - access to training platform 
 - access to word processor
-## 1. Title
-### 1.1 Subtitle 
-### 1.2 Subtitle
-## 2. Title
-### 2.1 Subtitle 
-### 2.2 Subtitle
-## 3. Title 
-### 3.1 Subtitle 
-### 3.2 Subtitle
+
+## <font color="#c00000">1. Definitions/Aspects of Open Science</font>
+### 1.1 Comprehensive: UNESCO
+### 1.2 Schools of thought
+### 1.3 Practical: Taxonomy
+### 1.4 Values of Open Science
+	take from E4DS + Sabrina Leonelli
+
+#### Research integrity 
+
+	"If scientific and scholarly research is to perform this role properly, research integrity is essential. Researchers who are not guided by the principles of honesty, scrupulousness, transparency, independence and responsibility risk harming both the quality and the trustworthiness of research" | [VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)
+
+![Image from [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/core-values/research-integrity)](attachments/Pasted%20image%2020231031180233.png)
+
+Scientific integrity is essential for the proper functioning of science. Scientific integrity is an umbrella term for the behavioural norms to which a scientist should adhere to ensure that research is reliable and of good quality. In this section we will discuss the codes of conduct in which these types of norms are laid down.
+#### Reproducibility
+
+## **Five principles**
+
+Standards of conduct for scientific integrity are laid down in codes of conduct such as The European Code of Conduct for Research Integrity ([ALLEA, 2017](https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf)) and The Netherlands Code of Conduct for Scientific Integrity ([VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)). The latter states that the following five principles form the basis of ethical research: 
+
+- Honesty
+- Scrupulousness
+- Transparency
+- Independence
+- Responsibility
+
+In order to prevent research data from being invented, fabricated or falsified (intentionally manipulated or misinterpreted) and to stimulate reproducibility, a transparent researcher makes clear on which data he or she bases the conclusions and how these data were collected. If research data cannot be made openly accessible, the researcher must state the reasons why this is not possible
+## <font color="#c00000">2. Is Open Science new?</font>
+### 2.1 Overview of the past 20 years
+### 2.2 Recent changes with the pandemic
+
+## <font color="#c00000">3. What's the problem, doctor? </font>
+### 3.1 An unfair game/the business of scientific publishing
+### 3.2 Scholarly communication 
+### 3.3 Research Assessment
+### 3.4 Recent policies for Open Science
 
 ## Conclusions
 ## Assessment
