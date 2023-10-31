@@ -1,6 +1,6 @@
 ![](./resources/attachments/header.png)
 
-# Templates Lottie Page de garde 
+# README
 
 This repository hosts all templates necessary for the development of FAIR-by-Design learning materials for the requirements of the Skills4EOSC project.
 Use these templates together with 
