@@ -90,11 +90,11 @@ Keywords or tags used to describe the training.
 
 ## Author(s)
 
-- Lottie Provost [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-5279-797X)
+- Lottie Provost [![ORCID logo](../attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-5279-797X)
 
 # Trainer(s)
 
-- Lottie Provost [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-5279-797X)
+- Lottie Provost [![ORCID logo](../attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-5279-797X)
 
 ## Contact information
 
