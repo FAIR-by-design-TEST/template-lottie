@@ -23,7 +23,7 @@ learningOutcome:
 accessCost: free
 expertiseLevel: Beginner
 ---
-![](attachments/Capture%20d’écran%202023-10-27%20à%2016.00.15.png)
+![](attachments/mountains.jpg)
 # Title of training 
 
 (Course/Workshop/Webinar)
