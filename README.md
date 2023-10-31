@@ -8,8 +8,7 @@ This repository hosts materials on lessons on Open Science and RDM.
 
 For now, the learning materials for the online lesson on Research Data and Open Science, held on 6 November 2023 as part of the training activities of the FOSSR project are the only available. 
 
-Essential information about the <font color="#f79646">lesson</font> is available [here](https://lessons-open-science.github.io/template-lottie/latest/) 
-<font color="#de7802">Syllabus link to insert instead</font>
+Essential information about the lesson is available [here](https://lessons-open-science.github.io/template-lottie/latest/) <font color="#de7802">and in the syllabus</font> [here](obsidian://open?vault=template-lottie&file=syllabus) 
 
 Use them together with the following resources: 
 - 1 (link)
