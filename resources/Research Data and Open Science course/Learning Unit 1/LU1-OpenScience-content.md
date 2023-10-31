@@ -3,11 +3,55 @@ title: LU1-OpenScience-content
 author:
   - Lottie Provost
 tags:
-  - Data
-  - Repository
-  - FAIR
   - RDM
+  - Open
+  - Science
+  - Lesson
 ---
+# What is Open Science?
+
+	Abstract of LU1
+- List planned activities
+
+### Learning objectives
+This lesson will answer the following questions/ After this lesson you will
+- List Learning Objectives
+### Target Group 
+- Early career researchers
+- SSH researchers
+
+### Duration
+1 hour
+
+### Prerequisites
+None
+
+## Learning tools
+- access to training platform 
+- access to word processor
+## 1. Title
+### 1.1 Subtitle 
+### 1.2 Subtitle
+## 2. Title
+### 2.1 Subtitle 
+### 2.2 Subtitle
+## 3. Title 
+### 3.1 Subtitle 
+### 3.2 Subtitle
+
+## Conclusions
+## Assessment
+
+
+
+
+
+
+
+
+_________________________________
+<u>**OLD** </u>
+
 Adapted from [OpenSciency OpenData] (https://github.com/opensciency/OpenData/blob/main/lessons/lesson5.md)
 What
 
@@ -17,6 +61,7 @@ What
 * Introduce the concept of a data management plan, where one documents the steps that will be carried out to ensure that your data can be shared in an appropriate fashion.
 * Introduce the concept of metadata, namely documenting your data which is essential if another researcher is to make use of your data.
 * Finally, who to contact in terms of advice and support.
+* discuss the data life cycle which places a focus on the reuse of data as it is generated.
 
 ### Learning Objectives
 
