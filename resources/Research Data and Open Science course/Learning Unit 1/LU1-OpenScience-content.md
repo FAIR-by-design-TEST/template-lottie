@@ -1,5 +1,5 @@
 ---
-title: LU1-OpenScience-content
+title: What is Open Science?
 author:
   - Lottie Provost
 tags:
@@ -8,7 +8,7 @@ tags:
   - Science
   - Lesson
 ---
-# What is Open Science?
+# What is Open Science? (LU1)
 
 	Abstract of LU1
 - List planned activities
