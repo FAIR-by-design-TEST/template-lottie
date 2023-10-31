@@ -1,21 +1,15 @@
 ---
-title: "Open Data: planning for Open Data"
+title: LU1-OpenScience-content
 author:
   - Lottie Provost
 tags:
-  - Open
   - Data
-  - FAIR
   - Repository
-  - Training
+  - FAIR
+  - RDM
 ---
-
-```{contents}
-
-```
-
 Adapted from [OpenSciency OpenData] (https://github.com/opensciency/OpenData/blob/main/lessons/lesson5.md)
-# Data Management Plan : Planning for Open Data
+What
 
 	In the previous lessons it has been shown that effective open data needs to be managed. As we have seen this is not trivial and requires work and preparation. Correspondingly, there can be cost implications for your institutions to do this. Rather than facing these issues on an ad hoc basis, one should plan and prepare what you will need to do before you generate the data. With this in mind, we will
 
@@ -25,7 +19,6 @@ Adapted from [OpenSciency OpenData] (https://github.com/opensciency/OpenData/blo
 * Finally, who to contact in terms of advice and support.
 
 ### Learning Objectives
-- insert here
 
 ### Target Group 
 - PhD 
