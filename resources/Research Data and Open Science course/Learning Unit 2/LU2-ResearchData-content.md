@@ -62,16 +62,75 @@ In order to prevent research data from being invented, fabricated or falsified (
 	- "are the factual records (numerical scores, textual records, images and sounds) used as primary sources for scientific research, and that are commonly accepted in the scientific community as necessary to validate research findings. A research data set constitutes a systematic, partial representation of the subject being investigated." [OECD, 2007](http://www.oecd.org/sti/inno/38500813.pdf)"
 
 ##### Ways of looking at data 
-- How is data collected or obtained?
-    There are various ways: through experiments, simulations, observations, derived data or source research.
-- Which are the forms that the data take? 
-    Look the form in which that data are recorded, this is often what is used to define the data. It can be a text document, spreadsheets, electronic lab journals, field notebooks and diaries, questionnaires, transcriptions and code books, audio and video tapes, photographs and films, artefacts, slides, database schemes, models, algorithms and scripts, workflows, protocols, metadata and other data files such as reports from literature research and e-mail archives.
-- In which formats is the data stored?
-    Look at the data format in which different data types (textual, numerical, multimedia, structured, software code, etc.) are stored. Statistical data can be stored, for example, as SPSS (* .sav) or STATA file formats, films such as * .mpg or * .avi, structured data such as * .xml or in a relational MySQL database and text files such as * .docx, * .pdf or * .rtf.
-- What is the size of the data files?
-    The size of the data files is important, as is their complexity. Managing a relatively small and simple dataset poses different challenges than managing large, complex databases.
-- To which phase do they correspond to in the research lifecycle?
-    The different life stages of research data each have their own challenges for (supporting) research data management.
+- **How is data collected or obtained?** 
+There are various ways: through experiments, simulations, observations, derived data or source research.
+- **Which are the forms that the data take?** 
+Look the form in which that data are recorded, this is often what is used to define the data. It can be a text document, spreadsheets, electronic lab journals, field notebooks and diaries, questionnaires, transcriptions and code books, audio and video tapes, photographs and films, artefacts, slides, database schemes, models, algorithms and scripts, workflows, protocols, metadata and other data files such as reports from literature research and e-mail archives.
+- **In which formats is the data stored?**
+Look at the data format in which different data types (textual, numerical, multimedia, structured, software code, etc.) are stored. Statistical data can be stored, for example, as SPSS (* .sav) or STATA file formats, films such as * .mpg or * .avi, structured data such as * .xml or in a relational MySQL database and text files such as * .docx, * .pdf or * .rtf.
+- **What is the size of the data files?**
+The size of the data files is important, as is their complexity. Managing a relatively small and simple dataset poses different challenges than managing large, complex databases.
+- **To which phase do they correspond to in the research lifecycle?**
+The different life stages of research data each have their own challenges for (supporting) research data management.
+
+#### Research lifecycle
+Research data have a longer lifespan than the moment they are generated. One way of looking at this is with a so-called research lifecycle. In this section, we will explain the concept in more detail.
+
+##### There are different lifecycles
+A life-cycle model provides insight into how the various phases in the life of research and research data fit together and how the choices you make in one phase influence data quality in the other. In this way you can shift the perspective from the short term to the long term: what do we want with these research data? 
+There are many lifecycles in circulation, focused on a certain use or a certain user group. We look at some of them here. 
+
+![Research lifecycle [UCF libraries (2017)](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)](attachments/UCF-lifecycle.png)
+
+Image below is adapted from the UK Data Service: 
+
+![Adapted from ](attachments/Research%20Lifecycle.drawio.png)
+
+
+
+
+(1) Planning research: 
+- design research
+- plan data management
+- plan consent for sharing 
+- plan data collecting, processing protocols and templates
+- explore existing data sources
+
+(2) Collecting data
+ collect data 
+ capture data with metadata 
+ acquire existing third party data
+
+(3) Processing and Analysing Data
+- enter, digitise, transcribe and translate data
+- check, validate, clean, anonymise
+- derive data
+- describe and document data
+- manage and store data 
+- analyse and interpret data
+- produce research outputs 
+- cite data sources
+
+(4) Publishing and sharing data 
+- establish copyright
+- create user documentation
+- create discovery metadata
+- select appropriate access to data 
+- publish / share data 
+- promote data 
+
+(5) Preserving Data 
+- migrate data to best format / media
+- store and back up data 
+- create preservation documentation 
+- preserve and curate data 
+
+(6) Reusing Data 
+- conduct secondary analysis
+- undertake follow up research 
+- conduct research reviews
+- scrutinise findings
+- use data for teaching & learning 
 
 
 
@@ -93,13 +152,7 @@ In order to prevent research data from being invented, fabricated or falsified (
 
 
 
-
-
-
-
-
-
-
+___________________________________
 
 Adapted from [OpenSciency OpenData] (https://github.com/opensciency/OpenData/blob/main/lessons/lesson5.md)
 # Data Management Plan : Planning for Open Data
