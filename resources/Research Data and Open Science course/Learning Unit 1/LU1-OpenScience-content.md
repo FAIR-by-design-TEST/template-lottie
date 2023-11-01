@@ -34,29 +34,41 @@ None
 ### 1.1 Comprehensive: UNESCO
 ### 1.2 Schools of thought
 ### 1.3 Practical: Taxonomy
-### 1.4 Values of Open Science
-	take from E4DS + Sabrina Leonelli
+### 1.4 Open Science is both about values and technology
+	*take from E4DS + Sabrina Leonelli*
+
+The point here is that for research to be credible it has to be of high quality. But who guarantees this quality ? We will take a look at the values underpinning high quality research, and flaws in the current academic/scientific landscape (reproducibility crisis/publishing crisis/)
+they are philosophical but include practical/technical aspects which you will learn to include in your research practices. 
 
 #### Research integrity 
+	*integrate quizz on are you a transparent researcher?*
 
 	"If scientific and scholarly research is to perform this role properly, research integrity is essential. Researchers who are not guided by the principles of honesty, scrupulousness, transparency, independence and responsibility risk harming both the quality and the trustworthiness of research" | [VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)
 
 ![Image from [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/core-values/research-integrity)](attachments/Pasted%20image%2020231031180233.png)
 
-Scientific integrity is essential for the proper functioning of science. Scientific integrity is an umbrella term for the behavioural norms to which a scientist should adhere to ensure that research is reliable and of good quality. In this section we will discuss the codes of conduct in which these types of norms are laid down.
-#### Reproducibility
+Scientific integrity is essential for the proper functioning of science. Scientific integrity is an umbrella term for the behavioural norms to which a scientist should adhere to ensure that research is reliable and of good quality.
 
-## **Five principles**
-
-Standards of conduct for scientific integrity are laid down in codes of conduct such as The European Code of Conduct for Research Integrity ([ALLEA, 2017](https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf)) and The Netherlands Code of Conduct for Scientific Integrity ([VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)). The latter states that the following five principles form the basis of ethical research: 
-
+Standards of conduct for scientific integrity are laid down in codes of conduct such as The European Code of Conduct for Research Integrity ([ALLEA, 2017]).
+In The Netherlands Code of Conduct for Scientific Integrity ([VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)), five principles form the basis of ethical research:
 - Honesty
 - Scrupulousness
 - Transparency
 - Independence
 - Responsibility
 
-In order to prevent research data from being invented, fabricated or falsified (intentionally manipulated or misinterpreted) and to stimulate reproducibility, a transparent researcher makes clear on which data he or she bases the conclusions and how these data were collected. If research data cannot be made openly accessible, the researcher must state the reasons why this is not possible
+In order to prevent research data from being invented, fabricated or falsified (intentionally manipulated or misinterpreted) and to stimulate reproducibility, a transparent researcher makes clear on which data he or she bases the conclusions and how these data were collected. If research data cannot be made openly accessible, the researcher must state the reasons why this is not possible. 
+
+#### Reproducibility
+
+	"Reproducibility means that research data and code are made available so that others are able to reach the same results as are claimed in scientific outputs" | [The Open Science Training Book, 2018](https://book.fosteropenscience.eu/en/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.html)
+
+<u>While different definitions of reproducibility exist in scientific literature, here we will call research reproducible when researchers provide all the necessary data, metadata, software and computer scripts that make it possible to either re-conduct the research or to make re-analysis of the research data possible.</u>
+
+<u>Setting up reproducible research requires a thorough preparation in the planning phase. In Chapter II we will discuss a number of tips and tools that aim to increase the reproducibility of scientific research.</u>
+
+
+
 ## <font color="#c00000">2. Is Open Science new?</font>
 ### 2.1 Overview of the past 20 years
 ### 2.2 Recent changes with the pandemic

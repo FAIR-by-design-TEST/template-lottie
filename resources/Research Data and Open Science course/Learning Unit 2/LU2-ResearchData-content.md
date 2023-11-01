@@ -8,6 +8,99 @@ tags:
   - FAIR
   - RDM
 ---
+Adapted  from Essentials 4 Data support
+# Why should we care about research data?
+
+[ QUIZZ - ask now and re-ask again at the end
+- are you a transparent researcher?
+- what is research data according to you?
+- do you care about your data ?]
+## Research Data
+### 1.1 Values behind Data Management
+
+The point here is that for research to be credible it has to be of high quality. But who guarantees this quality ? We will take a look at the values underpinning high quality research, and flaws in the current academic/scientific landscape (reproducibility crisis/publishing crisis/)
+they are philosophical but include practical/technical aspects which you will learn to include in your research practices. 
+
+#### Research integrity 
+	*integrate quizz on are you a transparent researcher?*
+
+	"If scientific and scholarly research is to perform this role properly, research integrity is essential. Researchers who are not guided by the principles of honesty, scrupulousness, transparency, independence and responsibility risk harming both the quality and the trustworthiness of research" | [VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)
+
+![Image from [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/core-values/research-integrity)](attachments/Pasted%20image%2020231031180233.png)
+
+Scientific integrity is essential for the proper functioning of science. Scientific integrity is an umbrella term for the behavioural norms to which a scientist should adhere to ensure that research is reliable and of good quality.
+
+Standards of conduct for scientific integrity are laid down in codes of conduct such as The European Code of Conduct for Research Integrity ([ALLEA, 2017]).
+In The Netherlands Code of Conduct for Scientific Integrity ([VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)), five principles form the basis of ethical research:
+- Honesty
+- Scrupulousness
+- Transparency
+- Independence
+- Responsibility
+
+In order to prevent research data from being invented, fabricated or falsified (intentionally manipulated or misinterpreted) and to stimulate reproducibility, a transparent researcher makes clear on which data he or she bases the conclusions and how these data were collected. If research data cannot be made openly accessible, the researcher must state the reasons why this is not possible. 
+
+#### Reproducibility
+
+	"Reproducibility means that research data and code are made available so that others are able to reach the same results as are claimed in scientific outputs" | [The Open Science Training Book, 2018](https://book.fosteropenscience.eu/en/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.html)
+
+<u>While different definitions of reproducibility exist in scientific literature, here we will call research reproducible when researchers provide all the necessary data, metadata, software and computer scripts that make it possible to either re-conduct the research or to make re-analysis of the research data possible.</u>
+
+<u>Setting up reproducible research requires a thorough preparation in the planning phase. In Chapter II we will discuss a number of tips and tools that aim to increase the reproducibility of scientific research.</u>
+
+### 1.2 Vocabulary
+
+#### Research Data
+##### Definitions 
+- 4 Definitions to show that what the understanding of 'research data'  varies from researcher to researcher, and this mostly depends on the significance of these data in the research process. 
+	- Major differences across scientific disciplines. 
+	- Many formats for research data, which can be read with many types of software. 
+- Check below the 4 definitions of research data.
+	- "Research data constitute primary research data (the raw, rough measurements or observation) and secondary research data (the results after the data have been processed by a researcher (recoded, combined, categorised, visualised, etc.))." [Utrecht University, 2016](https://www.uu.nl/sites/default/files/university_policy_framework_for_research_data_utrecht_university_-_january_2016.pdf)
+	- "Research data may be facts, observations, interviews, recordings, measurements, experiments, simulations and software; numerical, descriptive and visual; raw, cleaned up and processed; they may or may not support an actual or intended publication; and may be stored and exchanged in various formats on various storage media." [Van Berchum & Grootveld, 2017](http://hdl.handle.net/20.500.11755/a9539a60-ecef-4e62-a998-0fda190b303b)
+	- "Research data means data in the form of facts, observations, images, computer program results, recordings, measurements or experiences on which an argument, theory, test or hypothesis, or another research output is based. Data may be numerical, descriptive, visual or tactile. It may be raw, cleaned or processed, and may be held in any format or media." [Queensland University of Technology, 2013](http://www.mopp.qut.edu.au/D/D_02_08.jsp)
+	- "are the factual records (numerical scores, textual records, images and sounds) used as primary sources for scientific research, and that are commonly accepted in the scientific community as necessary to validate research findings. A research data set constitutes a systematic, partial representation of the subject being investigated." [OECD, 2007](http://www.oecd.org/sti/inno/38500813.pdf)"
+
+##### Ways of looking at data 
+- How is data collected or obtained?
+    There are various ways: through experiments, simulations, observations, derived data or source research.
+- Which are the forms that the data take? 
+    Look the form in which that data are recorded, this is often what is used to define the data. It can be a text document, spreadsheets, electronic lab journals, field notebooks and diaries, questionnaires, transcriptions and code books, audio and video tapes, photographs and films, artefacts, slides, database schemes, models, algorithms and scripts, workflows, protocols, metadata and other data files such as reports from literature research and e-mail archives.
+- In which formats is the data stored?
+    Look at the data format in which different data types (textual, numerical, multimedia, structured, software code, etc.) are stored. Statistical data can be stored, for example, as SPSS (* .sav) or STATA file formats, films such as * .mpg or * .avi, structured data such as * .xml or in a relational MySQL database and text files such as * .docx, * .pdf or * .rtf.
+- What is the size of the data files?
+    The size of the data files is important, as is their complexity. Managing a relatively small and simple dataset poses different challenges than managing large, complex databases.
+- To which phase do they correspond to in the research lifecycle?
+    The different life stages of research data each have their own challenges for (supporting) research data management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Adapted from [OpenSciency OpenData] (https://github.com/opensciency/OpenData/blob/main/lessons/lesson5.md)
 # Data Management Plan : Planning for Open Data
 
