@@ -78,11 +78,15 @@ Research data have a longer lifespan than the moment they are generated. One way
 
 ##### There are different lifecycles
 A life-cycle model provides insight into how the various phases in the life of research and research data fit together and how the choices you make in one phase influence data quality in the other. In this way you can shift the perspective from the short term to the long term: what do we want with these research data? 
-There are many lifecycles in circulation, focused on a certain use or a certain user group. We look at some of them here. 
+There are many lifecycles in circulation, focused on a certain use or a certain user group. We look at some of them here.
+
+Research lifecycle focusing on the research tools that can be sued in different phases of the workflow. Bosman & Kramer, 2015. 
+
+![](attachments/Capture%20d’écran%202023-11-01%20à%2012.09.51.png)
 
 ![Research lifecycle [UCF libraries (2017)](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)](attachments/UCF-lifecycle.png)
 
-Image below is adapted from the UK Data Service: 
+Another type of view: Image below is adapted from the UK Data Service: 
 
 ![Adapted from ](attachments/Research%20Lifecycle.drawio.png)
 
