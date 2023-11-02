@@ -8,77 +8,129 @@ tags:
   - Science
   - Lesson
 ---
-# What is Open Science? (LU1)
+# What is Open Science? 
 
-	Abstract of LU1
-- List planned activities
+	TO DO: Abstract of LU 1 and list planned activities
 
 ### Learning objectives
 This lesson will answer the following questions/ After this lesson you will
 - List Learning Objectives
-### Target Group 
+###### Target Group 
 - Early career researchers
 - SSH researchers
-
-### Duration
+###### Duration
 1 hour
-
-### Prerequisites
+###### Prerequisites
 None
-
-## Learning tools
+###### Learning tools
 - access to training platform 
 - access to word processor
 
-## <font color="#c00000">1. Definitions/Aspects of Open Science</font>
-### 1.1 Comprehensive: UNESCO
+## <font color="#c00000">1. One term, many definitions</font>
+
+Ci sono molte definizioni dell'Open Science (OS) a giro. 
+
+### 1.1 UNESCO
+
+<p align="justify">La definizione contenuta nella Raccomandazione dell’UNESCO (2021) è una della più complete in quanto copre tutti gli aspetti che riguardano la scienza aperta. 
+
+	"Open  science  is  defined  as  an inclusive construct that combines various movements and practices aiming to  make  multilingual  scientific  knowledge  openly  available,  accessible  and reusable  for  everyone,  to increase  scientific collaborations  and  sharing  of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. It comprises all scientific disciplines  and  aspects  of  scholarly  practices,  including  basic  and applied sciences, natural and social sciences and the humanities, and it builds on the following key pillars: open scientific knowledge, open science infrastructures, science  communication,  open engagement  of  societal  actors  and  open dialogue with other knowledge systems.”</p> 
+
+<p align="right">[UNESCO Recommendation on Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en)</p>
+
+![UNESCO [Open Science Brochure](https://en.unesco.org/sites/default/files/open_science_brochure_en.pdf)](https://lh7-us.googleusercontent.com/L4B8PXrl5PmvToi6938ftHutJHOfS1n6Frxr_9h7sngZXz5vNWbWyzitGnFa_APCC6lgjT6MVtVjn3p-bILf9BAzhLD9403temCZJyXns0ekMOkLUZd9ADiWbLCOsME-HXFHMsTdxwf_YnM49Dbdg6TpQA=s2048)
+
+**[UNESCO Open Science Brochure](https://en.unesco.org/sites/default/files/open_science_brochure_en.pdf)**
+
+Secondo la definizione dell'UNESCO, la scienza aperta si basa su quattro pilastri: 
+- Conoscenza scientifica aperta
+- Infrastrutture
+- Comunicazione scientifica e coinvolgimento degli attori sociali
+- Dialogo aperto con altri sistemi della scienza
+
 ### 1.2 Schools of thought
-### 1.3 Practical: Taxonomy
-### 1.4 Open Science is both about values and technology
-	*take from E4DS + Sabrina Leonelli*
+<p align="justify">Un ulteriore tentativo di catturare la complessità della Scienza Aperta è stato effettuato da Benedikt Fecher e Sascha Friesike nel 2013, nel libro intitolato "Opening Science - The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing". Nel capitolo [Open Science: One Term Five Schools of Thought](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2#Tab1), il concetto di Open Science è associato a cinque diverse scuole di pensiero, ognuna delle quali rappresenta una delle sfaccettature del concetto.</p>
+![Open Science: One Term, Five Schools of Thought](attachments/Capture%20d’écran%202023-11-02%20à%2020.52.34.png)
 
-The point here is that for research to be credible it has to be of high quality. But who guarantees this quality ? We will take a look at the values underpinning high quality research, and flaws in the current academic/scientific landscape (reproducibility crisis/publishing crisis/)
-they are philosophical but include practical/technical aspects which you will learn to include in your research practices. 
+### 1.3 Tassonomia
+Questa rappresentazione, pubblicata nel progetto europeao [FOSTER](https://www.fosteropenscience.eu/) , offre una visione più sistematica del concetto di Open Science. Nella tassonomia, l'Open Science viene suddivisa in componenti :
 
-#### Research integrity (already in LU2)
-	*integrate quizz on are you a transparent researcher?*
+1. **Open Access**: Questo pilastro riguarda l'accesso aperto alle pubblicazioni della ricerca, il che significa rendere facilmente accessibili e consultabili i risultati della ricerca.
 
-	"If scientific and scholarly research is to perform this role properly, research integrity is essential. Researchers who are not guided by the principles of honesty, scrupulousness, transparency, independence and responsibility risk harming both the quality and the trustworthiness of research" | [VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)
+2. **Open Data e FAIR Data**: Questa categoria riguarda la condivisione di dati aperti e la conformità a <font color="#9bbb59">principi FAIR</font> (Findable, Accessible, Interoperable, Reusable)
 
-![Image from [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/core-values/research-integrity)](attachments/Pasted%20image%2020231031180233.png)
+4. **Strumenti**: Includono le risorse e le tecnologie utilizzate per supportare i ricercatori nella pratica dell'Open Science.
 
-Scientific integrity is essential for the proper functioning of science. Scientific integrity is an umbrella term for the behavioural norms to which a scientist should adhere to ensure that research is reliable and of good quality.
+5. **Politiche**: Le politiche istituzionali e nazionali che promuovono e regolamentano la pratica della Scienza Aperta.
 
-Standards of conduct for scientific integrity are laid down in codes of conduct such as The European Code of Conduct for Research Integrity ([ALLEA, 2017]).
-In The Netherlands Code of Conduct for Scientific Integrity ([VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)), five principles form the basis of ethical research:
-- Honesty
-- Scrupulousness
-- Transparency
-- Independence
-- Responsibility
+6. **Infrastrutture**: Questo pilastro riguarda l'ambiente tecnico e organizzativo che facilita la condivisione e la collaborazione nella ricerca aperta.
 
-In order to prevent research data from being invented, fabricated or falsified (intentionally manipulated or misinterpreted) and to stimulate reproducibility, a transparent researcher makes clear on which data he or she bases the conclusions and how these data were collected. If research data cannot be made openly accessible, the researcher must state the reasons why this is not possible. 
+7. **Valutazione**: Come misurare e valutare l'adesione ai principi della Scienza Aperta.
 
-#### Reproducibility
 
-	"Reproducibility means that research data and code are made available so that others are able to reach the same results as are claimed in scientific outputs" | [The Open Science Training Book, 2018](https://book.fosteropenscience.eu/en/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.html)
+![](https://lh7-us.googleusercontent.com/0fWuwtFTvvoaEZUfTYdGrW7VV8_ylIRMgmPmhiVTo3tkkzAoWf3Zv-p_0iaEXW7N4dHzNxvB7MfNivd8tuZ66xqIAH9Yd-F6O-Wqix_n82-m52IrKW1g0J08AISVnoTsQ5Wr85B11edbItVQqrYrywh6Fg=s2048)
+<p align="right">Taxonomy from FOSTER project, **[DOI](https://doi.org/10.6084/m9.figshare.1508606.v3)**</p>
 
-<u>While different definitions of reproducibility exist in scientific literature, here we will call research reproducible when researchers provide all the necessary data, metadata, software and computer scripts that make it possible to either re-conduct the research or to make re-analysis of the research data possible.</u>
+### 1.4 Philosophical
 
-<u>Setting up reproducible research requires a thorough preparation in the planning phase. In Chapter II we will discuss a number of tips and tools that aim to increase the reproducibility of scientific research.</u>
+Sabina Leonelli?
 
+
+**IDEE**: PLAN A CHANGER ET ABORDER UN PETIT PEU TOUS LES ASPECTS (DE LA TAXONOMIE FOSTER)
+
+> <p align="justify">L'Open Science non si limita alle pubblicazioni o alla condivisione dei dati. Deve essere compresa come un sistema di cambiamento che introduce un nuovo modello di comunicazione scientifica, basato sulla collaborazione e sull'apertura nella produzione e condivisione di conoscenza, dati e risultati. Pertanto, quando si fa riferimento alla Scienza Aperta, si sottolinea l'importanza del rigore, della responsabilità e della riproducibilità nella pratica scientifica.</p>
 
 
 ## <font color="#c00000">2. Is Open Science new?</font>
-### 2.1 Overview of the past 20 years
-### 2.2 Recent changes with the pandemic
 
+<p align="justify">L'Open Science è soggetto di discussione da molti anni, l'Open Access già nel 2001-2022 quando è stata lanciata l'iniziativa di Budapest sull'Accesso Aperto, seguita nel 2003 dalla Dichiarazione di Berlino sull'Accesso Aperto.</p>
+### Negli ultimi 20 anni
+
+2001. [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) 
+2003. [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration) 
+2007. [OECD Principles and Guidelines on Access to Research Data from Public Funding](https://www.oecd.org/science/inno/38500813.pdf)
+2014. [The FAIR data principles](https://force11.org/info/the-fair-data-principles/)
+2015. OECD “[Making Open Science a Reality](https://www.oecd-ilibrary.org/science-and-technology/making-open-science-a-reality_5jrs2f963zs1-en)” 
+2016. European Commission, Directorate-General for Research and Innovation, [Open innovation, open science, open to the world : a vision for Europe](https://op.europa.eu/en/publication-detail/-/publication/3213b335-1cbc-11e6-ba9a-01aa75ed71a1) 
+2017. [G7 Science Ministers Communiqué](http://www.g7.utoronto.ca/science/2017-G7-Science-Communique.pdf)
+
+Nel corso della pandemia, organizzazioni internazionali, tra cui l'Organizzazione Mondiale della Sanità, si sono esposte a favore dell'apertura dei dati. In questo contesto, l'importanza di disporre di dati condivisibili si è rivelata fondamentale. 
 
 ## <font color="#c00000">3. What's the problem, doctor? </font>
-### 3.1 An unfair game/the business of scientific publishing
-### 3.2 Scholarly communication 
-### 3.3 Research Assessment
-### 3.4 Recent policies for Open Science
+
+Sono emersi una serie di problemi, fra cui:
+- Il costo eccessivo degli abbonamenti alle riviste scientifiche in tutto il mondo 
+- Uno studio della Commissione Europea ha rivelato che in Europa si perdono ogni anno circa 26 miliardi di euro a causa della gestione inadeguata dei dati di ricerca, con la ripetizione di esperimenti e la mancanza di politiche di condivisione e riutilizzo dei dati.
+- I grandi editori commerciali traggono enormi profitti.
+
+<p align="justify">Questi problemi fanno emergere un sistema che presenta evidenti criticità e inefficienze.
+Non è a caso che il sistema è stato definito come un sistema "publish or perish", in cui i ricercatori sono spinti a pubblicare il maggior numero possibile di lavori, mettendo in secondo piano la qualità. L'obiettivo principale diventa ottenere un elevato numero di citazioni o pubblicare su riviste considerate "prestigiose".
+
+Sul sito Retraction Watch, si può vedere come la corsa alla pubblicazione spinga molti autori a rilasciare lavori che poi vengono ritrattati. Le riviste scientifiche più prestigiose, contribuiscono in parte a questa mancanza di affidabilità: valorizzando risultati sorprendenti, troppo belli per essere veri, trascurano a volte i controlli di qualità adeguati.</p>
+
+### Come siamo arrivati qui?
+
+#### La comunicazione scientifica
+
+**In [Scholarly Communication and Scholarly Publishing](https://oaspa.org/guest-post-by-jean-claude-guedon-scholarly-communication-and-scholarly-publishing/)** (2021), Jean Claude Guédon spiega che si è verificato un momento in cui la comunicazione della scienza e la pubblicazione dei risultati, anziché procedere allineati, hanno iniziato a divergere.
+
+Con comunicazione scientifica si intende una serie di pratiche della ricerca, codificate nel tempo, che rispondo a diverse funzioni. 
+<font color="#7f7f7f"><center>Scholarly communication is *"the system through which research and other scholarly writings are created, evaluated for quality, disseminated to the scholarly community, and preserved for future use."* ACRL, [Principles and Strategies for the Reform of Scholarly Communication](https://www.ala.org/acrl/publications/whitepapers/principlesstrategies), 2006.</center></font>
+#### La valutazione della ricerca
+
+Per cambiare il sistema, bisogna cambiare il sistema di valutazione della ricerca, che si basa principalmente sulle pubblicazioni. 
+Alcuni problemi: 
+- uso eccessivo dell'Impact Factor per misurare la qualità
+- dipendenza eccessiva dalle grande case editrice commerciali 
+-  l'articolo, da un "knowledge unit" a un “accounting unit” che viene usato nella valutazione dei ricercatori e delle organizzazioni di ricerca
+- quando una misura diventa un obiettivo, cessa di essere una buona misura (legge di Goodhart)
+
+### Politiche europee e internazionali
+
+2012. [San Francisco Declaration on Research Assessment ](https://sfdora.org/read/)
+2021. [European Research Area Policy Agenda (2022 – 2024)](https://research-and-innovation.ec.europa.eu/document/download/0c2f5f95-3274-4ab8-9acb-d6673dc238b8_en?filename=ec_rtd_era-policy-agenda-2021.pdf)
+2022. [Strategic Research and Innovation Agenda of the European Open Science Cloud (EOSC)](https://eosc.eu/wp-content/uploads/2023/08/SRIA-1.1-final.pdf)
+2022. [Agreement on Reforming Research Assessment](https://coara.eu/agreement/the-agreement-full-text/)
 
 ## Conclusions
 ## Assessment
@@ -91,128 +143,10 @@ In order to prevent research data from being invented, fabricated or falsified (
 
 
 _________________________________
-<u>**OLD** </u>
-
-Adapted from [OpenSciency OpenData] (https://github.com/opensciency/OpenData/blob/main/lessons/lesson5.md)
-What
-
-	In the previous lessons it has been shown that effective open data needs to be managed. As we have seen this is not trivial and requires work and preparation. Correspondingly, there can be cost implications for your institutions to do this. Rather than facing these issues on an ad hoc basis, one should plan and prepare what you will need to do before you generate the data. With this in mind, we will
-
-* discuss the data life cycle which places a focus on the reuse of data as it is generated.
-* Introduce the concept of a data management plan, where one documents the steps that will be carried out to ensure that your data can be shared in an appropriate fashion.
-* Introduce the concept of metadata, namely documenting your data which is essential if another researcher is to make use of your data.
-* Finally, who to contact in terms of advice and support.
-* discuss the data life cycle which places a focus on the reuse of data as it is generated.
-
-### Learning Objectives
-
-### Target Group 
-- PhD 
-- Early career researchers
-
-This can be summarized in the following image.
-
-![Linear workflow focussed on publications](https://github.com/learnopenscience/TOPS-OC2-data/blob/adb7137694dde403ca54c7b8f755e79dd60fe8d8/assets/Figure5.1.png "Figure 5.1 Linear workflow model")
-
-### Duration
-1 hour
-
-### Prerequisites
-[Lesson 4](https://www.go-fair.org/wp-content/uploads/2022/01/FAIRPrinciples_overview.pdf)
-
-## Learning tools
-- access to training platform 
-- access to word processor
-## 1. Planning
-#### The data life cycle
-With a focus on generating papers, a researcher implicitly ended up with the following research workflow model in mind of how they worked with their data.
-It’s important to note here that because the focus is on the paper, there’s no thought to how the data changes at different stages of the process, or thought to how the data should be managed after a paper is published. Usually the data were included as part of the paper as a supplementary file.
-
-This can be summarized in the following image. (ADD image)
-
-On the other hand, if one thinks of open data that can be FAIR (and thus reused) then tanother model emerges. In particular, we note that
-	- Data needs to be available beyond the publication of a paper.
-	 - Data no longer has to be associated with one paper.
-	 - Data can be reanalysed.
-	 - More data, from different sources or the same lab, can be added in at any time, including later.
-Instead of the process being a linear progression, with a start and a finish, the process for data becomes more complex and there is cycle.
-These ideas were put together in the ![DCC Curation Lifecycle model](http://www.ijdc.net/article/view/69) 
-
-The original life cycle is complicated but a summary of the life-cycle is listed below
-
-![The DataOne Data life cycle](https://old.dataone.org/sites/all/images/DLC2015_sm.png "Figure 5.2 A summary of the data life cycle")
-
-Figure 5.2: A summary of the data life cycle (reproduced from https://old.dataone.org/data-life-cycle)
-
-Here the focus is very much moved away from the idea of research -> publication and instead is on the data itself as a first class research output.
-Let’s look at these individual steps
-
-* **Plan**: a description of the data that will be compiled, how the data will be managed and made accessible throughout its lifetime.
-* **Collect**: this corresponds to the data gathering step (illustrated in Figure 5.1).  It can include both primary (raw) and processed data.
-* **Assure**: the quality of the data is assured through checks and inspections.
-* **Describe**: data is accurately and thoroughly described through documentation (e.g. metadata).
-* **Preserve**: these are the steps necessary to make sure that the data will be accessible going forward so in particular ensuring that the data is stored in a fashion that others can use it (in particular storing at a data repository). Ideally this should be done in a fashion that matches the CARE and FAIR principles (lesson 4). This may also include the step of removing data that may not be of use to future researchers. For example, high resolution images may no longer be themselves useful if in the analysis step one has extracted the features of interest from them. Not storing the high resolution image and simply storing the feature data would provide a considerable saving of storage.
-* **Discover**: here other researchers can extract either the entirety or some subset of the data for their own purposes.
-* **Integrate**: data from disparate sources are combined to form one homogeneous set of data that can be readily analyzed (this could include this one data set being analyzed).
-* **Analyze**: corresponds to the data analysis step as illustrated in Figure 5.1.
-There are a variety of different interpretations of the data life-cycle (see the reading list for this lesson) with varying degrees of complexity. It’s also important to note that this is an idealization of what goes in general. Nonetheless, it is important to think of all these steps as an ongoing, interactive process that requires thorough planning and continued consideration and to recognize that they are non-trivial to do.
-
-## 2. Data Management Plans (DMP)
-Seeing as the above steps are not trivial before one begins to gather, collate or generate a data set it is useful to plan out what you will do with the data. This is referred to as a Data Management Plan or DMP for short.
-
-A DMP means that you can think ahead of any particular issues that might crop up in terms of handling the data, such as the potential cost of storage, whether data needs to be anonymised and so on.
-
-A detailed description of what one should put into a DMP is described [here](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html) [3]. As outlined in this [document from the UKRI](https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/) [4], the central funder for the UK, these can include answering questions such as
-
-* What type of data will be generated or preserved? This could include data formats, rough estimates of the amount of data to be stored during a research project and similarly what will be preserved beyond the lifetime of the project?
-
-* What type of metadata will be used and preserved. It is worth noting that one of the more detailed aspects of the FAIR principles is to keep the metadata of the data set available even if the original data set no longer exists.
-
-* Where should the data be preserved? i.e. what repository will be used (repositories are discussed in the next lesson). How long should it be stored? (five years? ten years?) More concretely, data regulations can require that certain data be kept in certain ways for at least a certain amount of time. This will vary depending on the type of data (e.g. medical records, population statistics). It is advised that these expiration dates are explored in the literature, and/or policy guidelines.  
-* How will any private data be stored so that it is kept securely?
-
-DMPs are not meant to be exhaustive documents! Typically they are 1-2 pages of A4 and often are less than a few thousand words. The important point is that they sketch out what a researcher or research team plans to do with their data well before they are gathered and can identify any steps that need to be taken rather than facing a major challenge now.
-
-DMPs are [increasingly used by funders](https://dmptool.org/public_templates) and their institutions as a means to have researchers map out what they will do with their data in a research proposal. Research proposals often require DMPs, and hence DMPs are often the ‘sharp end of the stick’ for researchers with respect to Open Science [5].  A good DMP is a criterion for assessment in grant applications and hence doing a good DMP will help your grant be funded.
-
-### 3 Documenting your Data (Metadata)
-
-As discussed in the previous lessons, the FAIR principles emphasize the importance of metadata, namely documenting your data. Metadata is described in more detail [here](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html) [6].
-
-A perennial question is what type of metadata and description of the data should be provided for a data set. If you are dealing with electronic data should one provide metadata for a whole set of files, an individual file … each individual bit?
-
-The simplest rule of thumb is if there aren’t any guidelines for your type of data or domain repositories, then try and provide enough documentation about your data that you would ask for if you were downloading this data yourself.
-
-For example if this was data taken from a field trip where location is important then you might want to include longitudinal and latitudinal coordinates. If it’s data from a wet lab then it might include parameters you normally include in the materials and methods section of a paper. If it’s data from purely computational work you may want to list the software run and the parameters used.
-
-Data repositories will be discussed in the next lesson. Domain specific repositories will often give more precise requirements on metadata (another reason to use them).
-
-If there are no guidelines then a simple README file attached with the data is a start (for an example see [here](https://cornell.app.box.com/v/ReadmeTemplate)) - though it’s important to note that ideally one should use metadata schema which is described in much more detail [here](https://www.dcc.ac.uk/guidance/standards) as FAIR data should be machine-actionable [7] [8].
-
-## 4. Help
-Much of the ins and outs of dealing with Open Data, or more particularly Open Data that follows good practice such as the FAIR principles, can be technical and lies beyond the domain of knowledge of researchers. How does one navigate this landscape?
-
-This can be summarized in the following diagram -
-
-![Figure 5.3 Diagram pointing to four possible sources of informaiton a researcher can approach.](https://github.com/learnopenscience/TOPS-OC2-data/blob/8509153045f69f2c52c6a6192c52476c54560071/lessons/Figure5.3.png "Figure 5.3 Sources of information and support on Open Data that a researcher could access.")
-
-Figure 5.3 Sources of information and support on Open Data that a researcher could access.
-
-#### **Research communities (international and national)**
-
-Individual research disciplines may already have put together materials and have advice on how to implement Open Science in their discipline. For example [FAIRsharing](https://fairsharing.org/) is a educational and information resource on data and metadata standards [9].  The [Research Data Alliance](https://rd-alliance.org/) have a variety of different [interest and working groups](https://www.rd-alliance.org/groups) in data sharing in specific disciplines. Scientific Societies and Publishers can also provide advice [10] [11].
-
-#### **Open Science related communities**
-
-There are a number of communities that are focussed on Open Science activities. [ReproducibiliTea](https://reproducibilitea.org/) is a grass-roots journal club initiative that is based in over 100 institutions and is a forum to discuss reproducibility, closely allied to Open Science [12]. The [FAIRdata forum](https://fairdataforum.org/) allows you to browse materials and raise questions that are related to FAIR [13]. Correspondingly the [PID forum](https://pidforum.org/) allows you to ask questions on PIDs in general [14]. A list of Open Science communities is provided in the next module (Open Tools).
-
-## Conclusion
-Rendere i dati aperti non è unèattività banale. Non si tratta semplicemente di collocare un set di dati su un cloud drive. Tuttavia, se viene fatto correttamente, i dati aperti sono disponibili per il riutilizzo. Il riutilizzo può coinvolgere completamente un team di ricerca diverso o potrebbe riguardare lo stesso team di ricerca che deve continuare il lavoro dopo che un membro del team responsabile dei dati si è spostato. Ciò significa che bisogna considerare i dati come parte del ciclo di vita ed è importante pianificare (un Piano di Gestione dei Dati) prima di creare i dati per assicurarsi che siano conservati in modo appropriato. Parte dell'operazione di rendere i tuoi dati FAIR consiste nel fornire metadati che descrivono i dati che stai depositando. Infine, non sentirti obbligato a fare tutto da zero,  ci sono vari luoghi dove puoi trovare supporto per rendere i tuoi dati aperti e FAIR.
-
 ## Assessment
 Practice what you just learnt
 
-**Example**
+**Example** <font color="#c0504d">to be adapted for LU1</font>
 * Can you identify what were the above steps with that data?
 
 Think now about a data set in your own discipline.
