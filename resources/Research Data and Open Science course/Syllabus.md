@@ -7,7 +7,7 @@ tags:
   - Tags
   - Resource
   - Description
-abstract: This resource contains a lesson on Open Science and RDM
+abstract: This resource is still a draft - it aims to contain a lesson on Open Science and RDM
 primaryLanguage: EN
 license: https://creativecommons.org/licenses/by/4.0/
 versionDate: 2023-10-20 Version date for the most recently published or broadcast resource.

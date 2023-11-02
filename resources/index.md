@@ -1,5 +1,5 @@
-This course is about research data and open science. 
+Here you will find materials on the course Research Data and Open Science. Resources for now are in Italian, except for a few titles. 
 
-- [Learning Unit 1](https://lessons-open-science.github.io/template-lottie/latest/Learning%20Unit%202/LU2-ResearchData-content/)
-- [Learning Unit 2](https://lessons-open-science.github.io/template-lottie/latest/Learning%20Unit%20Demo/template_content/)
-- Learning Unit 3 (will be uploaded soon)
+- [What is Open Science?](https://lessons-open-science.github.io/template-lottie/latest/Research%20Data%20and%20Open%20Science%20course/Learning%20Unit%201/LU1-OpenScience-content/)
+- [Research Data, why should I care?](https://lessons-open-science.github.io/template-lottie/latest/Research%20Data%20and%20Open%20Science%20course/Learning%20Unit%202/LU2-ResearchData-content/)
+- Get started on your Open Science journey (will be uploaded soon)
