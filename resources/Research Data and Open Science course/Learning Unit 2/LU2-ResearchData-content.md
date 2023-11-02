@@ -8,7 +8,6 @@ tags:
   - FAIR
   - RDM
 ---
-the content in this LU is from Essentials 4 Data support https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/data-jargon/rdm-open-and-fair
 
 # Why should we care about research data?
 
@@ -16,6 +15,27 @@ the content in this LU is from Essentials 4 Data support https://datasupport.res
 - are you a transparent researcher?
 - what is research data according to you?
 - do you care about your data ?]
+
+the content in this LU is from Essentials 4 Data support https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/data-jargon/rdm-open-and-fair
+
+### Learning objectives
+This lesson will answer the following questions/ After this lesson you will
+- List Learning Objectives
+### Target Group 
+- Early career researchers
+- SSH researchers
+
+### Duration
+1 hour
+
+### Prerequisites
+None
+
+## Learning tools
+- access to training platform 
+- access to word processor
+
+
 ## 1. Research Data
 ### 1.1 Values behind Data Management
 

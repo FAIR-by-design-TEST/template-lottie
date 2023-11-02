@@ -8,7 +8,14 @@ tags:
   - FAIR
   - RDM
 ---
+
+# Get started on your OS RDM 
+
+[ List of activities]
+
+
 ## <font color="#c00000">1. Title</font>
+
 ### 1.1 subtitle
 ### 1.2 subtitle
 
