@@ -1,5 +1,5 @@
 ---
-title: LU-2ResearchData-content
+title: LU2-ResearchData-content
 author:
   - Lottie Provost
 tags:
@@ -219,14 +219,9 @@ There are a variety of different interpretations of the data life-cycle (see the
 **About DMPs (intro level)**
 Seeing as the above steps are not trivial before one begins to gather, collate or generate a data set it is useful to plan out what you will do with the data. This is referred to as a Data Management Plan or DMP for short.
 
-A DMP means that you can think ahead of any particular issues that might crop up in terms of handling the data, such as the potential cost of storage, whether data needs to be anonymised and so on.
-
-A detailed description of what one should put into a DMP is described [here](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html) [3]. As outlined in this [document from the UKRI](https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/) [4], the central funder for the UK, these can include answering questions such as
-
+A DMP means that you can think ahead of any particular issues that might crop up in terms of handling the data, such as the potential cost of storage, whether data needs to be anonymised and so on. A detailed description of what one should put into a DMP is described [here](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html) [3]. As outlined in this [document from the UKRI](https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/) [4], the central funder for the UK, these can include answering questions such as
 * What type of data will be generated or preserved? This could include data formats, rough estimates of the amount of data to be stored during a research project and similarly what will be preserved beyond the lifetime of the project?
-
 * What type of metadata will be used and preserved. It is worth noting that one of the more detailed aspects of the FAIR principles is to keep the metadata of the data set available even if the original data set no longer exists.
-
 * Where should the data be preserved? i.e. what repository will be used (repositories are discussed in the next lesson). How long should it be stored? (five years? ten years?) More concretely, data regulations can require that certain data be kept in certain ways for at least a certain amount of time. This will vary depending on the type of data (e.g. medical records, population statistics). It is advised that these expiration dates are explored in the literature, and/or policy guidelines.  
 * How will any private data be stored so that it is kept securely?
 
@@ -240,13 +235,6 @@ Data repositories will be discussed in the next lesson. Domain specific reposito
 If there are no guidelines then a simple README file attached with the data is a start (for an example see [here](https://cornell.app.box.com/v/ReadmeTemplate)) - though it’s important to note that ideally one should use metadata schema which is described in much more detail [here](https://www.dcc.ac.uk/guidance/standards) as FAIR data should be machine-actionable [7] [8].
 
 
-#### **Research communities (international and national)**
-
-Individual research disciplines may already have put together materials and have advice on how to implement Open Science in their discipline. For example [FAIRsharing](https://fairsharing.org/) is a educational and information resource on data and metadata standards [9].  The [Research Data Alliance](https://rd-alliance.org/) have a variety of different [interest and working groups](https://www.rd-alliance.org/groups) in data sharing in specific disciplines. Scientific Societies and Publishers can also provide advice [10] [11].
-
-#### **Open Science related communities**
-
-There are a number of communities that are focussed on Open Science activities. [ReproducibiliTea](https://reproducibilitea.org/) is a grass-roots journal club initiative that is based in over 100 institutions and is a forum to discuss reproducibility, closely allied to Open Science [12]. The [FAIRdata forum](https://fairdataforum.org/) allows you to browse materials and raise questions that are related to FAIR [13]. Correspondingly the [PID forum](https://pidforum.org/) allows you to ask questions on PIDs in general [14]. A list of Open Science communities is provided in the next module (Open Tools).
 
 ## Conclusion
 Rendere i dati aperti non è unèattività banale. Non si tratta semplicemente di collocare un set di dati su un cloud drive. Tuttavia, se viene fatto correttamente, i dati aperti sono disponibili per il riutilizzo. Il riutilizzo può coinvolgere completamente un team di ricerca diverso o potrebbe riguardare lo stesso team di ricerca che deve continuare il lavoro dopo che un membro del team responsabile dei dati si è spostato. Ciò significa che bisogna considerare i dati come parte del ciclo di vita ed è importante pianificare (un Piano di Gestione dei Dati) prima di creare i dati per assicurarsi che siano conservati in modo appropriato. Parte dell'operazione di rendere i tuoi dati FAIR consiste nel fornire metadati che descrivono i dati che stai depositando. Infine, non sentirti obbligato a fare tutto da zero,  ci sono vari luoghi dove puoi trovare supporto per rendere i tuoi dati aperti e FAIR.

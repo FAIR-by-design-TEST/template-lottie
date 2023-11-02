@@ -40,7 +40,7 @@ None
 The point here is that for research to be credible it has to be of high quality. But who guarantees this quality ? We will take a look at the values underpinning high quality research, and flaws in the current academic/scientific landscape (reproducibility crisis/publishing crisis/)
 they are philosophical but include practical/technical aspects which you will learn to include in your research practices. 
 
-#### Research integrity 
+#### Research integrity (already in LU2)
 	*integrate quizz on are you a transparent researcher?*
 
 	"If scientific and scholarly research is to perform this role properly, research integrity is essential. Researchers who are not guided by the principles of honesty, scrupulousness, transparency, independence and responsibility risk harming both the quality and the trustworthiness of research" | [VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)
@@ -72,6 +72,7 @@ In order to prevent research data from being invented, fabricated or falsified (
 ## <font color="#c00000">2. Is Open Science new?</font>
 ### 2.1 Overview of the past 20 years
 ### 2.2 Recent changes with the pandemic
+
 
 ## <font color="#c00000">3. What's the problem, doctor? </font>
 ### 3.1 An unfair game/the business of scientific publishing
