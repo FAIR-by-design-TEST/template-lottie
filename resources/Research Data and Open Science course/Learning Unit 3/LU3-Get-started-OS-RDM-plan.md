@@ -34,12 +34,13 @@ tags:
 - can be a number range (e.g. 20-30)
 
 ### Learning objectives
-After this unit:
-- You will be able to indicate what information is considered research data;
-- You will be able to explain that the meaning of this research data varies per target group and per phase of the research lifecycle;
-- You will understand how open science, data management and FAIR data shape the integrity and reproducibility of scientific research;
-- You will have a global overview of the various types of data supporters;
-- You will have a broad overview of  a number of information sources that can further help you to get up-to-date in data management support.
+This unit will answer the following questions
+- What is Open Access to scientific knowledge? 
+- What are the trends in open science policy in Europe?
+- How can I make my research more open?
+- What are open science workflows?
+- Why and how to use a trusted repository?
+
 <font color="#92d050">- learning objectives should be devised using the verbs from the Bloom's Taxonomy</font>
 <font color="#92d050">- learning objectives should be SMART</font>
 
