@@ -16,6 +16,7 @@ tags:
 ## Get your data ready for sharing 
 - The aim of this unit is to enable participants to put in practice what they have learnt on OS and RDM in LU1 and LU2. This unit focuses on methodologies, tools and examples to support researchers in their data management practices.
 	- Recall benefits of RDM (optimise research outputs, increase research impact, support open scientific enquiry)
+	- Where to find support (research communities)
 	- How to publish Open Data: activities to disseminate research data in open format, from production to online display 
 		- Repositories for SSH
 		- How to find a trusted repository
