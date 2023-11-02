@@ -49,7 +49,7 @@ References to external or internal content provided elsewhere should be linked w
 
 ### Sub-subtitle
 
-Refer to a different learning unit using a relative link. For an example, see the [Syllabus](../index.md) file.
+Refer to a different learning unit using a relative link. For an example, see the [Syllabus](../../index.md) file.
 
 *Example italic text*
 
