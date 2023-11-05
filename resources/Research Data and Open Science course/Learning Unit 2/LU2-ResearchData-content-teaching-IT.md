@@ -124,7 +124,6 @@ Un modello di ciclo di vita consente di capire come si conciliano le varie fasi 
 
 I dati della ricerca hanno una durata più lunga rispetto al momento in cui vengono generati. Un modo di guardare a questo è con un cosiddetto ciclo di vita della ricerca. In questa sezione, spiegheremo il concetto in modo più dettagliato.
 ##### Vari rappresentazioni
-Un modello del ciclo di vita fornisce informazioni su come le varie fasi della vita della ricerca e dei dati della ricerca si incastrano e su come le scelte che fai in una fase influenzano la qualità dei dati nell'altra. In questo modo è possibile spostare la prospettiva dal breve al lungo termine: cosa vogliamo da questi dati di ricerca? 
 
 Ci sono molti cicli di vita in circolazione, focalizzati su un certo uso o su un certo gruppo di utenti.
 
@@ -213,7 +212,7 @@ In generale le competenze dei data steward riguardano:
 - esperienza nell'ambito della ricerca, programmazione, gestione di database e infrastruttura di ricerca
 - capacità comunicative, didattiche e organizzative
 - parlano la stessa lingua dei ricercatori
-- percorso di cariera misto - ne puramente scientifico, né tecnico
+- percorso di carriera misto - ne puramente scientifico, né tecnico
 
 Questa rappresentazione identifica i ruoli dei Data Steward  in Danemarca e in Olanda. 
 Vede queste 3 categorie di ruoli: Research, Infra, Policy
@@ -375,7 +374,12 @@ questa guida utile che ha scritto elena giglia, sulla base di una guida che e st
 
 Questa guida vi sarà molto utile perché in modo molto schematico vi aiuta a districarvi fra le i vari obblighi e questo cambiamento radicale di impostazione
 
-  
+## 4. Data documentation 
+
+	activitiy: see quizz E4DS https://docs.google.com/document/d/1rpkEfaCHRTZe9PlnSO7-gsvS8lcUl7VeoiwyVEdBNVI/edit
+
+How to create a READme file
+How to use a repo: learn how to deposit on Zenodo (talk abt metadata) 
 
 ___________________________________
 
