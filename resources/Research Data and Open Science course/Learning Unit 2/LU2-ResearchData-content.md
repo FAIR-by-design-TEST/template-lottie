@@ -15,6 +15,7 @@ tags:
 - are you a transparent researcher?
 - what is research data according to you?
 - do you care about your data ?]
+- README ?
 
 the content in this LU is from Essentials 4 Data support https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/data-jargon/rdm-open-and-fair
 

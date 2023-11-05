@@ -1,4 +1,4 @@
-<font color="#ff0000">IN CONSTRUCTION</font> 
+<font color="#ff0000">THIS SITE IS IN CONSTRUCTION</font> 
 
 Here you will find materials on the course Research Data and Open Science. Resources for now are in Italian, except for a few titles. 
 

@@ -1,5 +1,5 @@
 ---
-title: Che cos'è la scienza aperta?
+title: LU1-OpenScience-teacher-IT
 author:
   - Lottie Provost
 tags:
@@ -8,14 +8,36 @@ tags:
   - Science
   - Lesson
 ---
-# What is Open Science? 
 
 	TO DO: Abstract of LU 1 and list planned activities
 
-### Learning objectives
-1. Riuscire a spiegare gli aspetti fondamentali dei principi accademici, economici e sociali nonché dei concetti che supportano la Scienza Aperta nonché il perché questo sia rilevante per ogni singolo individuo a livello di impatto generale
-2. Sviluppare una comprensione delle numerose sfaccettature della Scienza Aperta e alcuni degli strumenti e delle pratiche interessate.
-3. Conoscere lo stato dell’arte della Scienza Aperta e le diverse prospettive che la compongono.
+|   1 | Definizioni |
+|:----|:------------|
+| 1.1 |             |
+| 1.2 |             |
+|   2 | Contesto    |
+| 2.1 |             |
+|   3 | Problemi    |
+| 3.1 |             |
+| 3.2 |             |  
+
+
+###### Learning objectives/ Conoscenze e competenze: from https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_IT/02OpenScienceBasics/01OpenConceptsAndPrinciples.html
+- La Scienza Aperta è il movimento che mira a rendere più accessibili i risultati della ricerca accademica, compresi il codice, i dati grezzi e gli articoli scientifici
+- Comprende molti aspetti diversi, ma spesso correlati tra loro, che incidono sull'intero ciclo della ricerca, tra questi la pubblicazione aperta, i dati grezzi della ricerca aperti, il software libero, appunti di lavoro aperti, la revisione aperta tra pari, la disseminazione aperta e materiali aperti (si consulti il glossario per le definizioni).
+- La storia della Scienza Aperta e le motivazioni alla base del movimento. 
+- Le origini dell'editoria accademica risalgono al 17 ° secolo con le prime riviste accademiche.
+- Una motivazione sempre più diffusa verso la condivisione delle risorse tra le discipline di ricerca, nonché per una maggiore trasparenza, efficienza, rigore, responsabilità, sostenibilità per le generazioni future e la riproducibilità della ricerca.
+- Casi etici dove una maggiore trasparenza può ridurre le frodi, la manipolazione dei dati e la segnalazione selettiva dei risultati.
+- Lo stato attuale è il risultato di pressioni da parte delle comunità di ricerca accademiche e dei governi affinchè la ricerca finanziata con fondi pubblici sia condivisa in maniera più aperta, spesso allo scopo di accelerare la crescita o l'innovazione sociale o economica.
+- I risultati della ricerca finanziati con fondi pubblici dovrebbero essere resi disponibili pubblicamente.
+- L’urgenza di promuovere il cambiamento culturale della ricerca e tra i ricercatori.
+- Adottare strumenti e tecnologie basati sul web per facilitare la collaborazione scientifica.
+- In genere viene riconosciuto alla Scienza Aperta di aumentare l'impatto della ricerca, associato a una più ampia condivisione e riutilizzo (vale a dire il cosiddetto ["vantaggio citazionale derivante dall’Accesso Aperto](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)").
+- La Scienza Aperta potrebbe incrementare la fiducia nella scienza e l'affidabilità nei risultati scientifici.
+- Scienza aperta e rapporti con le licenze, questioni legate al diritto d’autore.
+- Generalmente i risultati della ricerca aperti sono concessi con licenze aperte per massimizzare il loro riutilizzo consentendo tuttavia all’autore di detenere la proprietà e l’accreditamento del proprio lavoro.
+
 ###### Target Group 
 - Early career researchers
 - SSH researchers
@@ -26,6 +48,11 @@ None
 ###### Learning tools
 - access to training platform 
 - access to word processor
+
+
+# Che cos'è la scienza aperta ?
+
+L’obiettivo di questo modulo è di fornire un quadro contestuale nonchè una panoramica sugli aspetti di maggior rilievo che riguardano la Scienza Aperta. 
 
 ## <font color="#c00000">1. One term, many definitions</font>
 
@@ -50,9 +77,18 @@ Secondo la definizione dell'UNESCO, la scienza aperta si basa su quattro pilastr
 - Dialogo aperto con altri sistemi della scienza
 
 ### 1.2 Schools of thought
-<p align="justify">Un ulteriore tentativo di catturare la complessità della Scienza Aperta è stato effettuato da Benedikt Fecher e Sascha Friesike nel 2013, nel libro intitolato "Opening Science - The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing". Nel capitolo [Open Science: One Term Five Schools of Thought](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2#Tab1), il concetto di Open Science è associato a cinque diverse scuole di pensiero, ognuna delle quali rappresenta una delle sfaccettature del concetto.</p>
+<p align="justify"> Gli obiettivi e le ipotesi alla base delle motivazioni che spingono a mettere in pratica queste diverse pratiche sono stati oggetto di analisi da parte di Fecher & Friesike ([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)), i quali, attraverso lo studio della letteratura, hanno individuato cinque ampie problematiche o "scuole di pensiero"</p>
 ![Open Science: One Term, Five Schools of Thought](attachments/Capture%20d’écran%202023-11-02%20à%2020.52.34.png)
 
+- **Scuola democratica:** partendo dal presupposto che l'accesso alla conoscenza non sia equamente distribuito, quest'area si occupa di rendere il sapere accademico (incluse pubblicazioni e dati) liberamente disponibile a tutti.
+    
+- **Scuola pragmatica:** in base al principio secondo il quale la creazione della conoscenza è resa più efficiente attraverso la collaborazione e rafforzata attraverso la critica, quest'area cerca di sfruttare l’efficacia dei sistemi di rete che collegano tra loro gli studiosi e rendono i metodi accademici più trasparenti.
+    
+- **Scuola delle infrastrutture:** questa visione si basa sul presupposto che una ricerca efficiente richiede piattaforme, strumenti e servizi prontamente disponibili per la diffusione e la collaborazione.
+    
+- **Scuola della platea pubblica:** avendo riconosciuto che per esercitare un impatto reale sulla società questa deve essere coinvolta nelle attività di ricerca attraverso la comunicazione dei risultati della ricerca scientifica di facile comprensione, quest'area cerca di portare il pubblico a collaborare con la ricerca attraverso la “cittadinanza partecipativa” e a facilitare la comprensione della conoscenza per mezzo di brevi testi riassuntivi, blog e altri strumenti di comunicazione meno formali.
+    
+- **Scuola della valutazione:** traendo la propria motivazione dal fatto che le metriche tradizionali per misurare l'impatto scientifico sono risultate discutibili (per esempio, troppo incentrate sulle pubblicazioni, e spesso solo a livello di rivista), questo filone cerca delle "metriche alternative" che possano trarre vantaggio dalle nuove funzionalità che gli strumenti digitali in rete mettono a disposizione per tracciare e misurare l'impatto della ricerca attraverso attività che prima erano invisibili.
 ### 1.3 Tassonomia
 Questa rappresentazione, pubblicata nel progetto europeao [FOSTER](https://www.fosteropenscience.eu/) , offre una visione più sistematica del concetto di Open Science. Nella tassonomia, l'Open Science viene suddivisa in componenti :
 
@@ -80,6 +116,7 @@ Sabina Leonelli?
 **IDEE**: PLAN A CHANGER ET ABORDER UN PETIT PEU TOUS LES ASPECTS (DE LA TAXONOMIE FOSTER)
 
 > <p align="justify">L'Open Science non si limita alle pubblicazioni o alla condivisione dei dati. Deve essere compresa come un sistema di cambiamento che introduce un nuovo modello di comunicazione scientifica, basato sulla collaborazione e sull'apertura nella produzione e condivisione di conoscenza, dati e risultati. Pertanto, quando si fa riferimento alla Scienza Aperta, si sottolinea l'importanza del rigore, della responsabilità e della riproducibilità nella pratica scientifica.</p>
+La scienza aperta, secondo la definizione di cui sopra, include un numero enorme di potenziali cambiamenti strutturali nella pratica accademica, un ambiente spesso gerarchico e conservatore. Laddove, inoltre, anche i ricercatori siano in sintonia con gli obiettivi della Scienza Aperta, potrebbero non percepirne del tutto i vantaggi nel farli propri dato che i meccanismi di incentivazione esistenti non rispecchiano la nuova cultura di apertura e collaborazione. Di conseguenza, convincere i ricercatori della necessità di cambiare le proprie pratiche richiede una buona comprensione non solo dei benefici etici, sociali ed accademici ma anche di come l'adozione delle pratiche di Scienza Aperta può essere di loro aiuto concretamente per avere successo nel loro lavoro. Questa sezione descrive alcuni concetti, principi, attori e pratiche fondamentali nella Scienza Aperta e come questi interagiscano tra loro nel più ampio ecosistema della ricerca.
 
 
 ## <font color="#c00000">2. Is Open Science new?</font>
@@ -133,18 +170,37 @@ Alcuni problemi:
 2022. [Strategic Research and Innovation Agenda of the European Open Science Cloud (EOSC)](https://eosc.eu/wp-content/uploads/2023/08/SRIA-1.1-final.pdf)
 2022. [Agreement on Reforming Research Assessment](https://coara.eu/agreement/the-agreement-full-text/)
 
-## Conclusions
+## Conclusions: Cosa è la Open Science
+
+Fare Open Science significa rendere **aperto ogni passo della ricerca**.
+
+I principi della Open Science sono trasparenza, riproducibilità, collaborazione, inclusività, accessibilità, rigore, riuso.
+
+La scienza aperta si basa anche sull’idea che la ricerca finanziata con fondi pubblici debba essere pubblicamente disponibile.  
+
+**Perché serve la Open Science?**
+- Il sistema della comunicazione scientifica oggi è regolato da interessi di mercato di grandi editori commerciali e criteri di valutazione della ricerca obsoleti: le ricerche risultano chiuse dietro abbonamenti da migliaia di dollari che nessuno può permettersi 
+- ogni istituzione paga la ricerca 4 volte (con fondi pubblici): stipendio, fondi di ricerca, abbonamenti alle riviste per “ricomprare” le ricerche, diritti di riuso;
+- senza dimenticare che né gli autori né i revisori vengono remunerati.
+
+**I vantaggi**
+
+- Per la scienza: più trasparente, verificabile e riproducibile oltre che più rapida ed efficiente;
+- per le imprese: accedendo ai risultati della ricerca possono offrire prodotti più innovativi;
+- per la società: cittadini e amministratori possono prendere decisioni più obiettive sulla base dei dati, insegnanti e professionisti possono tenersi aggiornati, operatori sanitari e medici possono curarci meglio.
+
 ## Assessment
 
 
 
 _________________________________
-## Assessment
-Practice what you just learnt
-
-**Example** <font color="#c0504d">to be adapted for LU1</font>
-* Can you identify what were the above steps with that data?
-
-Think now about a data set in your own discipline.
-
-* What would be the steps that you would need to take with that data to match up with the data life cycle?
+**Resources**
+- European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe. [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
+    
+- Fecher and Friesike (2014). Open Science: One Term, Five Schools of Thought. [doi.org/10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
+    
+- High Level Group (2017). Europe's future. Open innovation, Open Science, open to the world: reflections of the Research, Innovation and Science Policy Experts (RISE). [doi.org/10.2777/79895](https://doi.org/10.2777/79895)
+    
+- Masuzzo and Martens (2017). Do you speak Open Science? Resources and tips to learn the language. [doi.org/10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
+    
+- Watson (2015). When will ‘Open Science’ become simply ‘science’?. [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)

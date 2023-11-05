@@ -33,8 +33,9 @@ This unit will provide answers to the following questions:
 	- What is open science? (main concepts, principles, key actors)
 	- What are the key benefits and challenges of open science?
 	- What are the implications of reforming the way research is evaluated/assessed?
-- <font color="#2DC26B">learning objectives should be devised using the verbs from the Bloom's Taxonomy</font>
-<font color="#2DC26B">- learning objectives should be SMART</font>
+1. Riuscire a spiegare gli aspetti fondamentali dei principi accademici, economici e sociali nonché dei concetti che supportano la Scienza Aperta nonché il perché questo sia rilevante per ogni singolo individuo a livello di impatto generale
+2. Sviluppare una comprensione delle numerose sfaccettature della Scienza Aperta e alcuni degli strumenti e delle pratiche interessate.
+3. Conoscere lo stato dell’arte della Scienza Aperta e le diverse prospettive che la compongono.
 
 |  Duration   |  Topic                   |  Key points/Teaching Method/Questions                                    |  Activities                                                                                                                                                    |  Resources                   |
 |:------------|:-------------------------|:-------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------|
