@@ -23,6 +23,7 @@ plugins:
         - "*.pptx"
         - "*_plan.md"
         - "*_facilitator_guide.md"
+        - "*Teacher/*"
       regex:
         - '.*\.(tmp|bin|tar)$'
 extra:
