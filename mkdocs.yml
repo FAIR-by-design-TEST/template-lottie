@@ -1,4 +1,4 @@
-site_name: Lesson OS RDM
+site_name: Open Science and RDM lessons for researchers
 docs_dir: resources
 theme:
   name: material
