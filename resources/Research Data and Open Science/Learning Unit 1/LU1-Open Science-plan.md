@@ -1,5 +1,5 @@
 ---
-title: LU1-OpenScience-plan
+title: What is Open Science?-plan
 author:
   - Lottie Provost
 tags:

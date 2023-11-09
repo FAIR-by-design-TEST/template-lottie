@@ -48,7 +48,7 @@ they are philosophical but include practical/technical aspects which you will le
 
 	"If scientific and scholarly research is to perform this role properly, research integrity is essential. Researchers who are not guided by the principles of honesty, scrupulousness, transparency, independence and responsibility risk harming both the quality and the trustworthiness of research" | [VSNU, 2018](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf)
 
-![Image from [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/start-the-course/i-a-birds-eye-view/core-values/research-integrity)](attachments/Pasted%20image%2020231031180233.png)
+![Image from [Essentials 4 Data Support](../../Learning%20Unit%201/attachments/Pasted%20image%2020231031180233.png)
 
 Scientific integrity is essential for the proper functioning of science. Scientific integrity is an umbrella term for the behavioural norms to which a scientist should adhere to ensure that research is reliable and of good quality.
 
@@ -104,13 +104,13 @@ There are many lifecycles in circulation, focused on a certain use or a certain 
 
 Research lifecycle focusing on the research tools that can be sued in different phases of the workflow. Bosman & Kramer, 2015. 
 
-![](attachments/Capture%20d’écran%202023-11-01%20à%2012.09.51.png)
+![](../attachments/Capture%20d’écran%202023-11-01%20à%2012.09.51.png)
 
-![Research lifecycle [UCF libraries (2017)](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)](attachments/UCF-lifecycle.png)
+![Research lifecycle [UCF libraries (2017)](../attachments/UCF-lifecycle.png)
 
 Another type of view: Image below is adapted from the UK Data Service: 
 
-![Adapted from ](attachments/Research%20Lifecycle.drawio.png)
+![Adapted from ](../attachments/Research%20Lifecycle.drawio.png)
 
 
 

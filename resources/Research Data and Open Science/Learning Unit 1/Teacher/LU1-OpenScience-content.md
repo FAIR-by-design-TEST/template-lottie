@@ -1,16 +1,15 @@
 ---
-title: Che cos'è la scienza aperta?
+title: What is Open Science
 author:
   - Lottie Provost
 tags:
   - RDM
-  - Open
-  - Science
   - Lesson
+  - Open-science
+  - FAIR
+  - Training
 ---
 # What is Open Science? 
-
-	TO DO: Abstract of LU 1 and list planned activities
 
 ### Learning objectives
 1. Riuscire a spiegare gli aspetti fondamentali dei principi accademici, economici e sociali nonché dei concetti che supportano la Scienza Aperta nonché il perché questo sia rilevante per ogni singolo individuo a livello di impatto generale

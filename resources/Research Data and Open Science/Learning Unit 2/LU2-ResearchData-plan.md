@@ -1,5 +1,5 @@
 ---
-title: LU2-ResearchData-plan
+title: What is Research Data?-plan
 author:
   - Lottie Provost
 tags:

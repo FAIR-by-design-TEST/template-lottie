@@ -1,5 +1,5 @@
 ---
-title: LU-GetStarted-plan
+title: Get Started-plan
 author:
   - Lottie Provost
 tags:
