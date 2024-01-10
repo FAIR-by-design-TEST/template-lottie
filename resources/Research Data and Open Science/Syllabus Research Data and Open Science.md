@@ -24,56 +24,55 @@ accessCost: free
 expertiseLevel: Beginner
 ---
 # Research Data and Open Science 
-
 An online lesson on Open Science and Research Data Management. 
 
 ## When?
-
 This lesson was held on 6 November 2023, the materials are made available for self-paced learning. 
 
 ## Where?
-
 - The lesson was held online.
 - The slides are available on Zenodo. DOI [10.5281/zenodo.10120307](https://zenodo.org/doi/10.5281/zenodo.10120307)
 
 ## Description
-
 - The main purpose of this lesson is to provide participants with **skills, tools and standards needed to integrate Open Science into their research workflows**. 
 - The lesson is structured into two parts
-	1. Introduction to Open Science: principles and definitions 
-	2. Get started with Research Data Management: why should we care about our data, and how
+	1) Introduction to Open Science: principles and definitions.
+	2) Get started with Research Data Management: why should we care about our data, and how.
 
 ## Target audience
-
 This lesson targets early career researchers in the Social Sciences and Humanities and researchers with little to no prior knowledge on the topics of Open Science and Research Data Management. 
 This lesson may also be of interest to those wishing to become familiar with these concepts in relation to the requirements of Horizon Europe projects regarding Open Science and Research Data Management.  
 
-## Expertise Level
-
-Skills level: Beginner  
+| Practical information       |                                                                                                                                              |
+|:----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| Language                    | English                                                                                                                                      |
+| Access cost                 | Free                                                                                                                                         |
+| Prerequisites               | None                                                                                                                                         |
+| Expertise level             | Beginner                                                                                                                                     |
+| Duration                    | Approximately 3 hours                                                                                                                        |
+| Keywords                    | <span style="font-size: 15px;">Open Science; Research Data; Research Data Management; Social Sciences and Humanities; Training.&nbsp;</span> |
+| Certification               | No certification available                                                                                                                   |
+| Where to find the materials | Zenodo. DOI [10.5281/zenodo.10120307](https://zenodo.org/doi/10.5281/zenodo.10120307)                                                        |  
 
 ## Primary Language
-
 English
 
 ## Access Cost
-
 The lesson is free of costs. 
 
 ## Prerequisites
-
 There are no prerequisites to follow this lesson. 
 
 ## Duration
-
 The lesson lasts approximately 3 hours. 
 
 ## Training objectives
-
-- list of specific training objectives
+After this lesson you should: 
+- understand the main Open Science concepts
+- know how to prepare your data for sharing 
+- be able to deposit your work in a trusted repository
 
 ## Keywords
-
 Open Science; Research Data; Research Data Management; Social Sciences and Humanities; Training. 
 ## Lesson Structure
 
@@ -91,10 +90,13 @@ Open Science; Research Data; Research Data Management; Social Sciences and Human
 	2.2 Recent changes
 #### Part 2
 <u>3. Research Data Management</u>
+
 	3.1 Core values 
 	3.2 Data jargon 
 	3.3 Data stewards
+
 <u>4. Open Science and Open Access in practice</u>
+
 	4.1 Open Science and Open Access in Horizon Europe 
 	4.2 Open Access: how?
 		Choosing a repository
@@ -103,7 +105,6 @@ Open Science; Research Data; Research Data Management; Social Sciences and Human
 	4.4 Data Management tools 
 
 ## Resources and Materials
-
 The slides are available on Zenodo. DOI [10.5281/zenodo.10120307](https://zenodo.org/doi/10.5281/zenodo.10120307)
 
 ## Certification Information
