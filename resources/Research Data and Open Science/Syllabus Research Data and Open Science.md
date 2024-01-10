@@ -49,6 +49,7 @@ This lesson was held on 6 November 2023, the materials are made available for se
 | Keywords                    | <span style="font-size: 15px;">Open Science; Research Data; Research Data Management; Social Sciences and Humanities; Training.&nbsp;</span> |
 | Certification               | No certification available                                                                                                                   |
 | Where to find the materials | Zenodo. DOI [10.5281/zenodo.10120307](https://zenodo.org/doi/10.5281/zenodo.10120307)                                                        |  
+
 ## Training objectives
 After this lesson you should: 
 - understand the main Open Science concepts
