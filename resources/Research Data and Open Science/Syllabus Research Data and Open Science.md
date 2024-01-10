@@ -80,10 +80,13 @@ Open Science; Research Data; Research Data Management; Social Sciences and Human
 ### Research Data and Open Science
 #### Part 1
 1.<u> Open Science introduction</u>
+
 	1.1. Definitions of Open Science
 	1.2 Is Open Science new ?
 	1.3 What's the problem, doctor?
+
 <u>2. Research assessment and Open Science</u>
+
 	2.1 How did we get here?
 	2.2 Recent changes
 #### Part 2
