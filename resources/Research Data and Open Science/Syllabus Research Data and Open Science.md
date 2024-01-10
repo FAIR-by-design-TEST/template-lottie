@@ -49,13 +49,11 @@ This lesson was held on 6 November 2023, the materials are made available for se
 | Keywords                    | <span style="font-size: 15px;">Open Science; Research Data; Research Data Management; Social Sciences and Humanities; Training.&nbsp;</span> |
 | Certification               | No certification available                                                                                                                   |
 | Where to find the materials | Zenodo. DOI [10.5281/zenodo.10120307](https://zenodo.org/doi/10.5281/zenodo.10120307)                                                        |  
-
 ## Training objectives
 After this lesson you should: 
 - understand the main Open Science concepts
 - know how to prepare your data for sharing 
 - be able to deposit your work in a trusted repository
-
 ## Lesson Structure
 
 ### Research Data and Open Science
@@ -94,7 +92,7 @@ After this lesson you should:
 - Lottie Provost [![ORCID logo](../attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-5279-797X)
 
 ## Contact information
-Please contact lottiemiaprovost@cnr.it for any questions regarding this lesson. 
+Please contact [lottiemiaprovost@cnr.it](lottiemiaprovost@cnr.it) for any questions regarding this lesson. 
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
