@@ -10,8 +10,7 @@
 🧑‍🏫 For trainers/teachers: you can reuse the content and the structure of the lessons for your own purposes. </p>
 ###### Who am I? 
 <p align="justify">I'm Lottie Provost, currently a research assistant at the Institute for Computational Linguistics (ILC) of the Italian National Research Council (CNR) in Pisa. I manage this website which I started in November 2023 to host some of my past lessons and courses on Open Science and RDM. For now only one lesson is available, but I will try my best to keep things up to date!</p>
-Find out more about me on my page: (<font color="#ff0000">add link to a doc with short bio</font>)
-Or, jump to my [ORCID page]( https://orcid.org/0000-0001-5279-797X).  
+Find out more about my work on my [ORCID page]( https://orcid.org/0000-0001-5279-797X).  
 
 ---
 ## List of past lessons

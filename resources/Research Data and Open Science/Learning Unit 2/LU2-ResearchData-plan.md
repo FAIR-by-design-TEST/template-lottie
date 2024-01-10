@@ -1,5 +1,5 @@
 ---
-title: What is Research Data?-plan
+title: What is Research Data?
 author:
   - Lottie Provost
 tags:

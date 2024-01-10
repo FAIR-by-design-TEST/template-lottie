@@ -1,5 +1,5 @@
 ---
-title: What is Open Science?-plan
+title: What is Open Science?
 author:
   - Lottie Provost
 tags:
