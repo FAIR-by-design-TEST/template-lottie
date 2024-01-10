@@ -26,13 +26,13 @@ expertiseLevel: Beginner
 # Research Data and Open Science 
 An online lesson on Open Science and Research Data Management. 
 ## Description
-- The main purpose of this lesson is to provide participants with **skills, tools and standards needed to integrate Open Science into their research workflows**. 
+- <p align="justify">The main purpose of this lesson is to provide participants with **skills, tools and standards needed to integrate Open Science into their research workflows**. 
 - The lesson is structured into two parts
 	1) Introduction to Open Science: principles and definitions.
-	2) Get started with Research Data Management: why should we care about our data, and how.
+	2) Get started with Research Data Management: why should we care about our data, and how.</p>
 ## Target audience
-This lesson targets early career researchers in the Social Sciences and Humanities and researchers with little to no prior knowledge on the topics of Open Science and Research Data Management. 
-This lesson may also be of interest to those wishing to become familiar with these concepts in relation to the requirements of Horizon Europe projects regarding Open Science and Research Data Management.  
+<p align="justify">This lesson targets early career researchers in the Social Sciences and Humanities and researchers with little to no prior knowledge on the topics of Open Science and Research Data Management. 
+This lesson may also be of interest to those wishing to become familiar with these concepts in relation to the requirements of Horizon Europe projects regarding Open Science and Research Data Management.</p>  
 ## When?
 This lesson was held on 6 November 2023, the materials are made available for self-paced learning. 
 ## Where?
@@ -51,10 +51,7 @@ This lesson was held on 6 November 2023, the materials are made available for se
 | Where to find the materials | Zenodo. DOI [10.5281/zenodo.10120307](https://zenodo.org/doi/10.5281/zenodo.10120307)                                                        |  
 
 ## Training objectives
-After this lesson you should: 
-- understand the main Open Science concepts
-- know how to prepare your data for sharing 
-- be able to deposit your work in a trusted repository
+After this lesson you should: Understand the main Open Science concepts; Know how to prepare your data for sharing; Be able to deposit your work in a trusted repository.
 ## Lesson Structure
 
 ### Research Data and Open Science
