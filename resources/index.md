@@ -15,7 +15,7 @@ Find out more about my work on my [ORCID page]( https://orcid.org/0000-0001-5279
 ---
 ## List of past lessons
 
-- **Research Data and Open Science**, 6 November 2023, FOSSR Project, CNR-IRPPS (online). Take a look at the [Syllabus](https://lessons-open-science.github.io/template-lottie/latest/Research%20Data%20and%20Open%20Science%20course/Syllabus/) to know more about the content of this lesson.
+- **Research Data and Open Science**, 6 November 2023, FOSSR Project, CNR-IRPPS (online). Take a look at the [Syllabus](https://lessons-open-science.github.io/Open-Science-materials/latest/Research%20Data%20and%20Open%20Science/Syllabus%20Research%20Data%20and%20Open%20Science/) to know more about the content of this lesson.
 
 - **Open Science in European Project Management**, March-May 2023, Università di Macerata. This lesson is not available yet, in the meantime you can find the presentations on Zenodo. DOI [10.5281/zenodo.7927959](https://zenodo.org/badge/DOI/10.5281/zenodo.7927959.svg)
 
