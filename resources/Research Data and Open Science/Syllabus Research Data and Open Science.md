@@ -27,8 +27,7 @@ expertiseLevel: Beginner
 ![](attachments/Capture%20d’écran%202024-01-12%20à%2011.16.47.png)
 An online lesson on Open Science and Research Data Management. 
 ## Description
-<p align="justify">The main purpose of this lesson is to provide participants with **skills, tools and standards needed to integrate Open Science into their research workflows**.</p>
-
+<p align="justify">The main purpose of this lesson is to provide participants with skills, tools and standards needed to integrate Open Science into their research workflows.</p>
 <p align="justify">The lesson is structured into two parts
 
 1) Introduction to Open Science: principles and definitions.
